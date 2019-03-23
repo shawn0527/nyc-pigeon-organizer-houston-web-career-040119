@@ -24,8 +24,8 @@ def nyc_pigeon_organizer(data)
   end
 
   pigeon_hash
+end
 
 nyc_pigeon_organizer(pigeons)
 
   # write your code here!
-end
